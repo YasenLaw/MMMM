@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 # -*- coding=utf-8 -*-
-# if you have any suggestions, you can email me at oooo4dzd@gmail.com
+# if you have any suggestions, you can email me at yachuanzhou@gmail.com
 #great thanks to kuwo music
 
 import os, gtk, pynotify,webkit,gobject,sys,webbrowser
